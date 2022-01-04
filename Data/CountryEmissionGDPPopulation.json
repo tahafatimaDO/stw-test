@@ -1,0 +1,1530 @@
+[
+  {
+    "twoCharacterCode" : "AF",
+    "countryName" : "Afghanistan",
+    "threeCharacterCode" : "AFG",
+    "emission" : 2675,
+    "gdp" : 19215562179.0117,
+    "population" : 34413603
+  },
+  {
+    "twoCharacterCode" : "AL",
+    "countryName" : "Albania",
+    "threeCharacterCode" : "ALB",
+    "emission" : 1559,
+    "gdp" : 11335264966.561001,
+    "population" : 2880703
+  },
+  {
+    "twoCharacterCode" : "DZ",
+    "countryName" : "Algeria",
+    "threeCharacterCode" : "DZA",
+    "emission" : 39651,
+    "gdp" : 165874330876.32101,
+    "population" : 39728025
+  },
+  {
+    "twoCharacterCode" : "AD",
+    "countryName" : "Andorra",
+    "threeCharacterCode" : "AND",
+    "emission" : 126,
+    "gdp" : 2811489408.89431,
+    "population" : 78011
+  },
+  {
+    "twoCharacterCode" : "AO",
+    "countryName" : "Angola",
+    "threeCharacterCode" : "AGO",
+    "emission" : 9480,
+    "gdp" : 102962245246.70799,
+    "population" : 27884381
+  },
+  {
+    "twoCharacterCode" : "AG",
+    "countryName" : "Antigua and Barbuda",
+    "threeCharacterCode" : "ATG",
+    "emission" : 145,
+    "gdp" : 1364863037.03704,
+    "population" : 93566
+  },
+  {
+    "twoCharacterCode" : "AR",
+    "countryName" : "Argentina",
+    "threeCharacterCode" : "ARG",
+    "emission" : 55638,
+    "gdp" : 584711485367.26697,
+    "population" : 43131966
+  },
+  {
+    "twoCharacterCode" : "AM",
+    "countryName" : "Armenia",
+    "threeCharacterCode" : "ARM",
+    "emission" : 1508,
+    "gdp" : 10553337672.9872,
+    "population" : 2925553
+  },
+  {
+    "twoCharacterCode" : "AU",
+    "countryName" : "Australia",
+    "threeCharacterCode" : "AUS",
+    "emission" : 98517,
+    "gdp" : 1345383143356.3501,
+    "population" : 23815995
+  },
+  {
+    "twoCharacterCode" : "AT",
+    "countryName" : "Austria",
+    "threeCharacterCode" : "AUT",
+    "emission" : 16011,
+    "gdp" : 382065930307.97803,
+    "population" : 8642699
+  },
+  {
+    "twoCharacterCode" : "AZ",
+    "countryName" : "Azerbaijan",
+    "threeCharacterCode" : "AZE",
+    "emission" : 10223,
+    "gdp" : 53074370486.043297,
+    "population" : 9649341
+  },
+  {
+    "twoCharacterCode" : "BS",
+    "countryName" : "Bahamas",
+    "threeCharacterCode" : "BHS",
+    "emission" : 659,
+    "gdp" : 11240000000,
+    "population" : 374206
+  },
+  {
+    "twoCharacterCode" : "BH",
+    "countryName" : "Bahrain",
+    "threeCharacterCode" : "BHR",
+    "emission" : 8546,
+    "gdp" : 31125851063.8298,
+    "population" : 1371851
+  },
+  {
+    "twoCharacterCode" : "BD",
+    "countryName" : "Bangladesh",
+    "threeCharacterCode" : "BGD",
+    "emission" : 19959,
+    "gdp" : 195078665827.565,
+    "population" : 156256276
+  },
+  {
+    "twoCharacterCode" : "BB",
+    "countryName" : "Barbados",
+    "threeCharacterCode" : "BRB",
+    "emission" : 347,
+    "gdp" : 4584150000,
+    "population" : 285324
+  },
+  {
+    "twoCharacterCode" : "BY",
+    "countryName" : "Belarus",
+    "threeCharacterCode" : "BLR",
+    "emission" : 17316,
+    "gdp" : 56454734396.584198,
+    "population" : 9489616
+  },
+  {
+    "twoCharacterCode" : "BE",
+    "countryName" : "Belgium",
+    "threeCharacterCode" : "BEL",
+    "emission" : 25457,
+    "gdp" : 455200045095.64301,
+    "population" : 11274196
+  },
+  {
+    "twoCharacterCode" : "BZ",
+    "countryName" : "Belize",
+    "threeCharacterCode" : "BLZ",
+    "emission" : 135,
+    "gdp" : 1742545900,
+    "population" : 360933
+  },
+  {
+    "twoCharacterCode" : "BJ",
+    "countryName" : "Benin",
+    "threeCharacterCode" : "BEN",
+    "emission" : 1723,
+    "gdp" : 8290986804.4524498,
+    "population" : 10575952
+  },
+  {
+    "twoCharacterCode" : "BT",
+    "countryName" : "Bhutan",
+    "threeCharacterCode" : "BTN",
+    "emission" : 273,
+    "gdp" : 2059258652.9466801,
+    "population" : 727876
+  },
+  {
+    "twoCharacterCode" : "BA",
+    "countryName" : "Bosnia and Herzegovina",
+    "threeCharacterCode" : "BIH",
+    "emission" : 6063,
+    "gdp" : 16209702863.623501,
+    "population" : 3429361
+  },
+  {
+    "twoCharacterCode" : "BW",
+    "countryName" : "Botswana",
+    "threeCharacterCode" : "BWA",
+    "emission" : 1918,
+    "gdp" : 14430573505.3797,
+    "population" : 2120716
+  },
+  {
+    "twoCharacterCode" : "BR",
+    "countryName" : "Brazil",
+    "threeCharacterCode" : "BRA",
+    "emission" : 144480,
+    "gdp" : 1803652649613.75,
+    "population" : 204471769
+  },
+  {
+    "twoCharacterCode" : "BN",
+    "countryName" : "Brunei Darussalam",
+    "threeCharacterCode" : "BRN",
+    "emission" : 2484,
+    "gdp" : 12930394937.8137,
+    "population" : 414907
+  },
+  {
+    "twoCharacterCode" : "BG",
+    "countryName" : "Bulgaria",
+    "threeCharacterCode" : "BGR",
+    "emission" : 11567,
+    "gdp" : 50199117547.041496,
+    "population" : 7177991
+  },
+  {
+    "twoCharacterCode" : "BF",
+    "countryName" : "Burkina Faso",
+    "threeCharacterCode" : "BFA",
+    "emission" : 777,
+    "gdp" : 10419303761.3524,
+    "population" : 18110624
+  },
+  {
+    "twoCharacterCode" : "BI",
+    "countryName" : "Burundi",
+    "threeCharacterCode" : "BDI",
+    "emission" : 120,
+    "gdp" : 3066681386.73841,
+    "population" : 10160030
+  },
+  {
+    "twoCharacterCode" : "KH",
+    "countryName" : "Cambodia",
+    "threeCharacterCode" : "KHM",
+    "emission" : 1823,
+    "gdp" : 18049954289.422901,
+    "population" : 15521436
+  },
+  {
+    "twoCharacterCode" : "CA",
+    "countryName" : "Canada",
+    "threeCharacterCode" : "CAN",
+    "emission" : 146494,
+    "gdp" : 1552807652015.3701,
+    "population" : 35702908
+  },
+  {
+    "twoCharacterCode" : "CV",
+    "countryName" : "Cape Verde",
+    "threeCharacterCode" : "CPV",
+    "emission" : 134,
+    "gdp" : 1574288667.69981,
+    "population" : 524743
+  },
+  {
+    "twoCharacterCode" : "CF",
+    "countryName" : "Central African Republic",
+    "threeCharacterCode" : "CAF",
+    "emission" : 82,
+    "gdp" : 1583776759.97697,
+    "population" : 4493170
+  },
+  {
+    "twoCharacterCode" : "TD",
+    "countryName" : "Chad",
+    "threeCharacterCode" : "TCD",
+    "emission" : 199,
+    "gdp" : 10888798113.7866,
+    "population" : 14110975
+  },
+  {
+    "twoCharacterCode" : "CL",
+    "countryName" : "Chile",
+    "threeCharacterCode" : "CHL",
+    "emission" : 22515,
+    "gdp" : 242517905161.664,
+    "population" : 17969353
+  },
+  {
+    "twoCharacterCode" : "CN",
+    "countryName" : "China",
+    "threeCharacterCode" : "CHN",
+    "emission" : 2806634,
+    "gdp" : 11064666282625.5,
+    "population" : 1371220000
+  },
+  {
+    "twoCharacterCode" : "CO",
+    "countryName" : "Colombia",
+    "threeCharacterCode" : "COL",
+    "emission" : 22932,
+    "gdp" : 291519596338.69299,
+    "population" : 47520667
+  },
+  {
+    "twoCharacterCode" : "KM",
+    "countryName" : "Comoros",
+    "threeCharacterCode" : "COM",
+    "emission" : 42,
+    "gdp" : 565689764.63262999,
+    "population" : 777424
+  },
+  {
+    "twoCharacterCode" : "CG",
+    "countryName" : "Congo",
+    "threeCharacterCode" : "COG",
+    "emission" : 844,
+    "gdp" : 8553154580.3995104,
+    "population" : 4856095
+  },
+  {
+    "twoCharacterCode" : "CR",
+    "countryName" : "Costa Rica",
+    "threeCharacterCode" : "CRI",
+    "emission" : 2116,
+    "gdp" : 54840103850.264999,
+    "population" : 4847804
+  },
+  {
+    "twoCharacterCode" : "CI",
+    "countryName" : "Côte d'Ivoire",
+    "threeCharacterCode" : "CIV",
+    "emission" : 3012,
+    "gdp" : 33145096414.073101,
+    "population" : 23226143
+  },
+  {
+    "twoCharacterCode" : "HR",
+    "countryName" : "Croatia",
+    "threeCharacterCode" : "HRV",
+    "emission" : 4593,
+    "gdp" : 48921877447.764,
+    "population" : 4203604
+  },
+  {
+    "twoCharacterCode" : "CU",
+    "countryName" : "Cuba",
+    "threeCharacterCode" : "CUB",
+    "emission" : 9500,
+    "gdp" : 87132800000,
+    "population" : 11324781
+  },
+  {
+    "twoCharacterCode" : "CY",
+    "countryName" : "Cyprus",
+    "threeCharacterCode" : "CYP",
+    "emission" : 1653,
+    "gdp" : 19676167239.658401,
+    "population" : 1160985
+  },
+  {
+    "twoCharacterCode" : "CZ",
+    "countryName" : "Czech Republic",
+    "threeCharacterCode" : "CZE",
+    "emission" : 26309,
+    "gdp" : 186829940545.759,
+    "population" : 10546059
+  },
+  {
+    "twoCharacterCode" : "CD",
+    "countryName" : "Congo, the Democratic Republic of the",
+    "threeCharacterCode" : "COD",
+    "emission" : 1274,
+    "gdp" : 36188521106.929398,
+    "population" : 76244544
+  },
+  {
+    "twoCharacterCode" : "DK",
+    "countryName" : "Denmark",
+    "threeCharacterCode" : "DNK",
+    "emission" : 9135,
+    "gdp" : 301298464861.38501,
+    "population" : 5683483
+  },
+  {
+    "twoCharacterCode" : "DJ",
+    "countryName" : "Djibouti",
+    "threeCharacterCode" : "DJI",
+    "emission" : 197,
+    "gdp" : 1727000000,
+    "population" : 913993
+  },
+  {
+    "twoCharacterCode" : "DM",
+    "countryName" : "Dominica",
+    "threeCharacterCode" : "DMA",
+    "emission" : 37,
+    "gdp" : 535095846.296296,
+    "population" : 71183
+  },
+  {
+    "twoCharacterCode" : "DO",
+    "countryName" : "Dominican Republic",
+    "threeCharacterCode" : "DOM",
+    "emission" : 5874,
+    "gdp" : 68102618092.103104,
+    "population" : 10281680
+  },
+  {
+    "twoCharacterCode" : "EC",
+    "countryName" : "Ecuador",
+    "threeCharacterCode" : "ECU",
+    "emission" : 11977,
+    "gdp" : 99290381000,
+    "population" : 16212020
+  },
+  {
+    "twoCharacterCode" : "EG",
+    "countryName" : "Egypt",
+    "threeCharacterCode" : "EGY",
+    "emission" : 55057,
+    "gdp" : 332698041030.80701,
+    "population" : 92442547
+  },
+  {
+    "twoCharacterCode" : "SV",
+    "countryName" : "El Salvador",
+    "threeCharacterCode" : "SLV",
+    "emission" : 1714,
+    "gdp" : 26052340000,
+    "population" : 6325124
+  },
+  {
+    "twoCharacterCode" : "GQ",
+    "countryName" : "Equatorial Guinea",
+    "threeCharacterCode" : "GNQ",
+    "emission" : 1458,
+    "gdp" : 12597210657.504801,
+    "population" : 1168568
+  },
+  {
+    "twoCharacterCode" : "EE",
+    "countryName" : "Estonia",
+    "threeCharacterCode" : "EST",
+    "emission" : 5323,
+    "gdp" : 22566956982.229,
+    "population" : 1315407
+  },
+  {
+    "twoCharacterCode" : "ET",
+    "countryName" : "Ethiopia",
+    "threeCharacterCode" : "ETH",
+    "emission" : 3163,
+    "gdp" : 64464547915.269798,
+    "population" : 100835458
+  },
+  {
+    "twoCharacterCode" : "FO",
+    "countryName" : "Faroe Islands",
+    "threeCharacterCode" : "FRO",
+    "emission" : 163,
+    "gdp" : 2476746087.1891699,
+    "population" : 48051
+  },
+  {
+    "twoCharacterCode" : "FM",
+    "countryName" : "Micronesia, Federated States of",
+    "threeCharacterCode" : "FSM",
+    "emission" : 41,
+    "gdp" : 315179700,
+    "population" : 108895
+  },
+  {
+    "twoCharacterCode" : "FJ",
+    "countryName" : "Fiji",
+    "threeCharacterCode" : "FJI",
+    "emission" : 319,
+    "gdp" : 4391113415.33181,
+    "population" : 868627
+  },
+  {
+    "twoCharacterCode" : "FI",
+    "countryName" : "Finland",
+    "threeCharacterCode" : "FIN",
+    "emission" : 12899,
+    "gdp" : 232439324529.64499,
+    "population" : 5479531
+  },
+  {
+    "twoCharacterCode" : "FR",
+    "countryName" : "France",
+    "threeCharacterCode" : "FRA",
+    "emission" : 82704,
+    "gdp" : 2433562015516.21,
+    "population" : 66548272
+  },
+  {
+    "twoCharacterCode" : "GA",
+    "countryName" : "Gabon",
+    "threeCharacterCode" : "GAB",
+    "emission" : 1416,
+    "gdp" : 14262032470.9041,
+    "population" : 1947686
+  },
+  {
+    "twoCharacterCode" : "GM",
+    "countryName" : "Gambia",
+    "threeCharacterCode" : "GMB",
+    "emission" : 140,
+    "gdp" : 907652509.58168197,
+    "population" : 2085860
+  },
+  {
+    "twoCharacterCode" : "GE",
+    "countryName" : "Georgia",
+    "threeCharacterCode" : "GEO",
+    "emission" : 2451,
+    "gdp" : 13993546732.472601,
+    "population" : 3725276
+  },
+  {
+    "twoCharacterCode" : "DE",
+    "countryName" : "Germany",
+    "threeCharacterCode" : "DEU",
+    "emission" : 196314,
+    "gdp" : 3375611100742.2202,
+    "population" : 81686611
+  },
+  {
+    "twoCharacterCode" : "GH",
+    "countryName" : "Ghana",
+    "threeCharacterCode" : "GHA",
+    "emission" : 3945,
+    "gdp" : 37543361203.560898,
+    "population" : 27849205
+  },
+  {
+    "twoCharacterCode" : "GR",
+    "countryName" : "Greece",
+    "threeCharacterCode" : "GRC",
+    "emission" : 18358,
+    "gdp" : 195541761243.14401,
+    "population" : 10820883
+  },
+  {
+    "twoCharacterCode" : "GL",
+    "countryName" : "Greenland",
+    "threeCharacterCode" : "GRL",
+    "emission" : 138,
+    "gdp" : 2220380802.3305898,
+    "population" : 56114
+  },
+  {
+    "twoCharacterCode" : "GD",
+    "countryName" : "Grenada",
+    "threeCharacterCode" : "GRD",
+    "emission" : 66,
+    "gdp" : 997007925.92592597,
+    "population" : 109599
+  },
+  {
+    "twoCharacterCode" : "GT",
+    "countryName" : "Guatemala",
+    "threeCharacterCode" : "GTM",
+    "emission" : 4998,
+    "gdp" : 63767597193.917503,
+    "population" : 16252429
+  },
+  {
+    "twoCharacterCode" : "GN",
+    "countryName" : "Guinea",
+    "threeCharacterCode" : "GIN",
+    "emission" : 668,
+    "gdp" : 8767143622.8310108,
+    "population" : 11432088
+  },
+  {
+    "twoCharacterCode" : "GW",
+    "countryName" : "Guinea-Bissau",
+    "threeCharacterCode" : "GNB",
+    "emission" : 74,
+    "gdp" : 1036130506.5363899,
+    "population" : 1737202
+  },
+  {
+    "twoCharacterCode" : "GY",
+    "countryName" : "Guyana",
+    "threeCharacterCode" : "GUY",
+    "emission" : 548,
+    "gdp" : 3197225181.5980601,
+    "population" : 767432
+  },
+  {
+    "twoCharacterCode" : "HT",
+    "countryName" : "Haiti",
+    "threeCharacterCode" : "HTI",
+    "emission" : 780,
+    "gdp" : 8724656126.4984894,
+    "population" : 10695542
+  },
+  {
+    "twoCharacterCode" : "HN",
+    "countryName" : "Honduras",
+    "threeCharacterCode" : "HND",
+    "emission" : 2583,
+    "gdp" : 20844284855.002499,
+    "population" : 9112916
+  },
+  {
+    "twoCharacterCode" : "HK",
+    "countryName" : "Hong Kong",
+    "threeCharacterCode" : "HKG",
+    "emission" : 12605,
+    "gdp" : 309403880389.07098,
+    "population" : 7291300
+  },
+  {
+    "twoCharacterCode" : "HU",
+    "countryName" : "Hungary",
+    "threeCharacterCode" : "HUN",
+    "emission" : 11477,
+    "gdp" : 122879042001.91499,
+    "population" : 9843028
+  },
+  {
+    "twoCharacterCode" : "IS",
+    "countryName" : "Iceland",
+    "threeCharacterCode" : "ISL",
+    "emission" : 541,
+    "gdp" : 16783714958.4498,
+    "population" : 330815
+  },
+  {
+    "twoCharacterCode" : "IN",
+    "countryName" : "India",
+    "threeCharacterCode" : "IND",
+    "emission" : 610411,
+    "gdp" : 2089865410867.8201,
+    "population" : 1310152403
+  },
+  {
+    "twoCharacterCode" : "ID",
+    "countryName" : "Indonesia",
+    "threeCharacterCode" : "IDN",
+    "emission" : 126582,
+    "gdp" : 861256351277.35901,
+    "population" : 258383256
+  },
+  {
+    "twoCharacterCode" : "IQ",
+    "countryName" : "Iraq",
+    "threeCharacterCode" : "IRQ",
+    "emission" : 45935,
+    "gdp" : 179640210726.448,
+    "population" : 35572261
+  },
+  {
+    "twoCharacterCode" : "IE",
+    "countryName" : "Ireland",
+    "threeCharacterCode" : "IRL",
+    "emission" : 9290,
+    "gdp" : 290617006703.97198,
+    "population" : 4701957
+  },
+  {
+    "twoCharacterCode" : "IR",
+    "countryName" : "Iran, Islamic Republic of",
+    "threeCharacterCode" : "IRN",
+    "emission" : 177115,
+    "gdp" : 385874474398.59003,
+    "population" : 78492215
+  },
+  {
+    "twoCharacterCode" : "IL",
+    "countryName" : "Israel",
+    "threeCharacterCode" : "ISR",
+    "emission" : 17617,
+    "gdp" : 299096404728.82599,
+    "population" : 8380100
+  },
+  {
+    "twoCharacterCode" : "IT",
+    "countryName" : "Italy",
+    "threeCharacterCode" : "ITA",
+    "emission" : 87377,
+    "gdp" : 1832347450961.51,
+    "population" : 60730582
+  },
+  {
+    "twoCharacterCode" : "JM",
+    "countryName" : "Jamaica",
+    "threeCharacterCode" : "JAM",
+    "emission" : 2024,
+    "gdp" : 14186886642.668501,
+    "population" : 2891021
+  },
+  {
+    "twoCharacterCode" : "JP",
+    "countryName" : "Japan",
+    "threeCharacterCode" : "JPN",
+    "emission" : 331074,
+    "gdp" : 4383076298081.8599,
+    "population" : 127141000
+  },
+  {
+    "twoCharacterCode" : "JO",
+    "countryName" : "Jordan",
+    "threeCharacterCode" : "JOR",
+    "emission" : 7213,
+    "gdp" : 37517410281.690102,
+    "population" : 9266575
+  },
+  {
+    "twoCharacterCode" : "KZ",
+    "countryName" : "Kazakhstan",
+    "threeCharacterCode" : "KAZ",
+    "emission" : 67716,
+    "gdp" : 184388432148.715,
+    "population" : 17542806
+  },
+  {
+    "twoCharacterCode" : "KE",
+    "countryName" : "Kenya",
+    "threeCharacterCode" : "KEN",
+    "emission" : 3896,
+    "gdp" : 63767539356.605103,
+    "population" : 47878336
+  },
+  {
+    "twoCharacterCode" : "KI",
+    "countryName" : "Kiribati",
+    "threeCharacterCode" : "KIR",
+    "emission" : 17,
+    "gdp" : 169140538.69610599,
+    "population" : 110930
+  },
+  {
+    "twoCharacterCode" : "KW",
+    "countryName" : "Kuwait",
+    "threeCharacterCode" : "KWT",
+    "emission" : 26018,
+    "gdp" : 114567298105.683,
+    "population" : 3835591
+  },
+  {
+    "twoCharacterCode" : "KG",
+    "countryName" : "Kyrgyzstan",
+    "threeCharacterCode" : "KGZ",
+    "emission" : 2620,
+    "gdp" : 6678178340.45121,
+    "population" : 5956900
+  },
+  {
+    "twoCharacterCode" : "LA",
+    "countryName" : "Lao People's Democratic Republic",
+    "threeCharacterCode" : "LAO",
+    "emission" : 533,
+    "gdp" : 14390395149.7773,
+    "population" : 6741164
+  },
+  {
+    "twoCharacterCode" : "LV",
+    "countryName" : "Latvia",
+    "threeCharacterCode" : "LVA",
+    "emission" : 1902,
+    "gdp" : 27009231911.442799,
+    "population" : 1977527
+  },
+  {
+    "twoCharacterCode" : "LB",
+    "countryName" : "Lebanon",
+    "threeCharacterCode" : "LBN",
+    "emission" : 6564,
+    "gdp" : 49459296463.2836,
+    "population" : 6532678
+  },
+  {
+    "twoCharacterCode" : "LS",
+    "countryName" : "Lesotho",
+    "threeCharacterCode" : "LSO",
+    "emission" : 673,
+    "gdp" : 2505886024.6573,
+    "population" : 2059021
+  },
+  {
+    "twoCharacterCode" : "LR",
+    "countryName" : "Liberia",
+    "threeCharacterCode" : "LBR",
+    "emission" : 255,
+    "gdp" : 2034000000,
+    "population" : 4472230
+  },
+  {
+    "twoCharacterCode" : "LI",
+    "countryName" : "Liechtenstein",
+    "threeCharacterCode" : "LIE",
+    "emission" : 12,
+    "gdp" : 6289165409.5590801,
+    "population" : 37470
+  },
+  {
+    "twoCharacterCode" : "LT",
+    "countryName" : "Lithuania",
+    "threeCharacterCode" : "LTU",
+    "emission" : 3501,
+    "gdp" : 41402022148.205299,
+    "population" : 2904910
+  },
+  {
+    "twoCharacterCode" : "LU",
+    "countryName" : "Luxembourg",
+    "threeCharacterCode" : "LUX",
+    "emission" : 2634,
+    "gdp" : 57784495265.437798,
+    "population" : 569604
+  },
+  {
+    "twoCharacterCode" : "MO",
+    "countryName" : "Macao",
+    "threeCharacterCode" : "MAC",
+    "emission" : 350,
+    "gdp" : 45415278647.463997,
+    "population" : 602085
+  },
+  {
+    "twoCharacterCode" : "MK",
+    "countryName" : "Macedonia, the Former Yugoslav Republic of",
+    "threeCharacterCode" : "MKD",
+    "emission" : 2048,
+    "gdp" : 10051659161.1733,
+    "population" : 2079328
+  },
+  {
+    "twoCharacterCode" : "MG",
+    "countryName" : "Madagascar",
+    "threeCharacterCode" : "MDG",
+    "emission" : 839,
+    "gdp" : 9744243420.4807301,
+    "population" : 24234088
+  },
+  {
+    "twoCharacterCode" : "MW",
+    "countryName" : "Malawi",
+    "threeCharacterCode" : "MWI",
+    "emission" : 348,
+    "gdp" : 6373201160.0324802,
+    "population" : 16745303
+  },
+  {
+    "twoCharacterCode" : "MY",
+    "countryName" : "Malaysia",
+    "threeCharacterCode" : "MYS",
+    "emission" : 66218,
+    "gdp" : 296434003328.63898,
+    "population" : 30270962
+  },
+  {
+    "twoCharacterCode" : "MV",
+    "countryName" : "Maldives",
+    "threeCharacterCode" : "MDV",
+    "emission" : 364,
+    "gdp" : 4006531188.2648602,
+    "population" : 454915
+  },
+  {
+    "twoCharacterCode" : "ML",
+    "countryName" : "Mali",
+    "threeCharacterCode" : "MLI",
+    "emission" : 385,
+    "gdp" : 13100058099.804001,
+    "population" : 17438778
+  },
+  {
+    "twoCharacterCode" : "MT",
+    "countryName" : "Malta",
+    "threeCharacterCode" : "MLT",
+    "emission" : 640,
+    "gdp" : 10285547954.0777,
+    "population" : 445053
+  },
+  {
+    "twoCharacterCode" : "MH",
+    "countryName" : "Marshall Islands",
+    "threeCharacterCode" : "MHL",
+    "emission" : 28,
+    "gdp" : 179697900,
+    "population" : 57439
+  },
+  {
+    "twoCharacterCode" : "MR",
+    "countryName" : "Mauritania",
+    "threeCharacterCode" : "MRT",
+    "emission" : 739,
+    "gdp" : 4844223106.95469,
+    "population" : 4046301
+  },
+  {
+    "twoCharacterCode" : "MU",
+    "countryName" : "Mauritius",
+    "threeCharacterCode" : "MUS",
+    "emission" : 1153,
+    "gdp" : 11692287066.381001,
+    "population" : 1262605
+  },
+  {
+    "twoCharacterCode" : "MX",
+    "countryName" : "Mexico",
+    "threeCharacterCode" : "MEX",
+    "emission" : 130971,
+    "gdp" : 1152263780657.8601,
+    "population" : 121858258
+  },
+  {
+    "twoCharacterCode" : "MN",
+    "countryName" : "Mongolia",
+    "threeCharacterCode" : "MNG",
+    "emission" : 5683,
+    "gdp" : 11749620619.596201,
+    "population" : 2998439
+  },
+  {
+    "twoCharacterCode" : "ME",
+    "countryName" : "Montenegro",
+    "threeCharacterCode" : "MNE",
+    "emission" : 603,
+    "gdp" : 4052913385.8267698,
+    "population" : 622159
+  },
+  {
+    "twoCharacterCode" : "MA",
+    "countryName" : "Morocco",
+    "threeCharacterCode" : "MAR",
+    "emission" : 16325,
+    "gdp" : 101187079462.942,
+    "population" : 34663603
+  },
+  {
+    "twoCharacterCode" : "MZ",
+    "countryName" : "Mozambique",
+    "threeCharacterCode" : "MOZ",
+    "emission" : 2298,
+    "gdp" : 14798439527.254101,
+    "population" : 27042002
+  },
+  {
+    "twoCharacterCode" : "MM",
+    "countryName" : "Myanmar",
+    "threeCharacterCode" : "MMR",
+    "emission" : 5899,
+    "gdp" : 59687373958.257401,
+    "population" : 52680726
+  },
+  {
+    "twoCharacterCode" : "NA",
+    "countryName" : "Namibia",
+    "threeCharacterCode" : "NAM",
+    "emission" : 1024,
+    "gdp" : 11571141027.0478,
+    "population" : 2314904
+  },
+  {
+    "twoCharacterCode" : "NR",
+    "countryName" : "Nauru",
+    "threeCharacterCode" : "NRU",
+    "emission" : 13,
+    "gdp" : 100459782.608696,
+    "population" : 12475
+  },
+  {
+    "twoCharacterCode" : "NP",
+    "countryName" : "Nepal",
+    "threeCharacterCode" : "NPL",
+    "emission" : 2190,
+    "gdp" : 21410840908.519798,
+    "population" : 27015031
+  },
+  {
+    "twoCharacterCode" : "NL",
+    "countryName" : "Netherlands",
+    "threeCharacterCode" : "NLD",
+    "emission" : 45624,
+    "gdp" : 757999453314.26904,
+    "population" : 16939923
+  },
+  {
+    "twoCharacterCode" : "NZ",
+    "countryName" : "New Zealand",
+    "threeCharacterCode" : "NZL",
+    "emission" : 9453,
+    "gdp" : 175562976175.285,
+    "population" : 4595700
+  },
+  {
+    "twoCharacterCode" : "NI",
+    "countryName" : "Nicaragua",
+    "threeCharacterCode" : "NIC",
+    "emission" : 1326,
+    "gdp" : 12747741539.725901,
+    "population" : 6223240
+  },
+  {
+    "twoCharacterCode" : "NE",
+    "countryName" : "Niger",
+    "threeCharacterCode" : "NER",
+    "emission" : 580,
+    "gdp" : 7217666360.6952105,
+    "population" : 20001663
+  },
+  {
+    "twoCharacterCode" : "NG",
+    "countryName" : "Nigeria",
+    "threeCharacterCode" : "NGA",
+    "emission" : 26256,
+    "gdp" : 481066152889.09399,
+    "population" : 181137448
+  },
+  {
+    "twoCharacterCode" : "NO",
+    "countryName" : "Norway",
+    "threeCharacterCode" : "NOR",
+    "emission" : 12988,
+    "gdp" : 386663139402.70697,
+    "population" : 5188607
+  },
+  {
+    "twoCharacterCode" : "PS",
+    "countryName" : "Palestine, State of",
+    "threeCharacterCode" : "PSE",
+    "emission" : 774,
+    "gdp" : 12673000000,
+    "population" : 4270092
+  },
+  {
+    "twoCharacterCode" : "OM",
+    "countryName" : "Oman",
+    "threeCharacterCode" : "OMN",
+    "emission" : 16681,
+    "gdp" : 69831770871.261398,
+    "population" : 4267348
+  },
+  {
+    "twoCharacterCode" : "PK",
+    "countryName" : "Pakistan",
+    "threeCharacterCode" : "PAK",
+    "emission" : 45350,
+    "gdp" : 270556126820.064,
+    "population" : 199426964
+  },
+  {
+    "twoCharacterCode" : "PW",
+    "countryName" : "Palau",
+    "threeCharacterCode" : "PLW",
+    "emission" : 71,
+    "gdp" : 297645400,
+    "population" : 17665
+  },
+  {
+    "twoCharacterCode" : "PA",
+    "countryName" : "Panama",
+    "threeCharacterCode" : "PAN",
+    "emission" : 2400,
+    "gdp" : 52132289700,
+    "population" : 3968487
+  },
+  {
+    "twoCharacterCode" : "PG",
+    "countryName" : "Papua New Guinea",
+    "threeCharacterCode" : "PNG",
+    "emission" : 1723,
+    "gdp" : 21060901603.814499,
+    "population" : 8107775
+  },
+  {
+    "twoCharacterCode" : "PY",
+    "countryName" : "Paraguay",
+    "threeCharacterCode" : "PRY",
+    "emission" : 1555,
+    "gdp" : 27282581335.796398,
+    "population" : 6688746
+  },
+  {
+    "twoCharacterCode" : "PE",
+    "countryName" : "Peru",
+    "threeCharacterCode" : "PER",
+    "emission" : 16838,
+    "gdp" : 189212096470.293,
+    "population" : 30470734
+  },
+  {
+    "twoCharacterCode" : "PH",
+    "countryName" : "Philippines",
+    "threeCharacterCode" : "PHL",
+    "emission" : 28812,
+    "gdp" : 292774099013.68701,
+    "population" : 102113212
+  },
+  {
+    "twoCharacterCode" : "BO",
+    "countryName" : "Bolivia, Plurinational State of",
+    "threeCharacterCode" : "BOL",
+    "emission" : 5566,
+    "gdp" : 33000198263.386398,
+    "population" : 10869730
+  },
+  {
+    "twoCharacterCode" : "PL",
+    "countryName" : "Poland",
+    "threeCharacterCode" : "POL",
+    "emission" : 77922,
+    "gdp" : 477279647754.70099,
+    "population" : 37986412
+  },
+  {
+    "twoCharacterCode" : "PT",
+    "countryName" : "Portugal",
+    "threeCharacterCode" : "PRT",
+    "emission" : 12286,
+    "gdp" : 199420256049.689,
+    "population" : 10358076
+  },
+  {
+    "twoCharacterCode" : "QA",
+    "countryName" : "Qatar",
+    "threeCharacterCode" : "QAT",
+    "emission" : 29412,
+    "gdp" : 164641483516.48401,
+    "population" : 2565710
+  },
+  {
+    "twoCharacterCode" : "CM",
+    "countryName" : "Cameroon",
+    "threeCharacterCode" : "CMR",
+    "emission" : 1910,
+    "gdp" : 30916218544.440399,
+    "population" : 23298368
+  },
+  {
+    "twoCharacterCode" : "KR",
+    "countryName" : "Korea, Republic of",
+    "threeCharacterCode" : "KOR",
+    "emission" : 160119,
+    "gdp" : 1382764027113.8201,
+    "population" : 51014947
+  },
+  {
+    "twoCharacterCode" : "MD",
+    "countryName" : "Moldova, Republic of",
+    "threeCharacterCode" : "MDA",
+    "emission" : 1345,
+    "gdp" : 6512899540.3459396,
+    "population" : 2834530
+  },
+  {
+    "twoCharacterCode" : "SS",
+    "countryName" : "South Sudan",
+    "threeCharacterCode" : "SSD",
+    "emission" : 408,
+    "gdp" : 9015221096.2447395,
+    "population" : 10715658
+  },
+  {
+    "twoCharacterCode" : "SD",
+    "countryName" : "Sudan",
+    "threeCharacterCode" : "SDN",
+    "emission" : 4190,
+    "gdp" : 97156119150,
+    "population" : 38902950
+  },
+  {
+    "twoCharacterCode" : "RO",
+    "countryName" : "Romania",
+    "threeCharacterCode" : "ROU",
+    "emission" : 19090,
+    "gdp" : 177911101680.10599,
+    "population" : 19815616
+  },
+  {
+    "twoCharacterCode" : "RU",
+    "countryName" : "Russian Federation",
+    "threeCharacterCode" : "RUS",
+    "emission" : 465052,
+    "gdp" : 1365864126832.8101,
+    "population" : 144096870
+  },
+  {
+    "twoCharacterCode" : "RW",
+    "countryName" : "Rwanda",
+    "threeCharacterCode" : "RWA",
+    "emission" : 229,
+    "gdp" : 8261034257.6324797,
+    "population" : 11369071
+  },
+  {
+    "twoCharacterCode" : "LC",
+    "countryName" : "Saint Lucia",
+    "threeCharacterCode" : "LCA",
+    "emission" : 111,
+    "gdp" : 1649142629.6296301,
+    "population" : 179126
+  },
+  {
+    "twoCharacterCode" : "WS",
+    "countryName" : "Samoa",
+    "threeCharacterCode" : "WSM",
+    "emission" : 54,
+    "gdp" : 803985809.16628897,
+    "population" : 193513
+  },
+  {
+    "twoCharacterCode" : "ST",
+    "countryName" : "Sao Tome and Principe",
+    "threeCharacterCode" : "STP",
+    "emission" : 31,
+    "gdp" : 315880811.08746397,
+    "population" : 199432
+  },
+  {
+    "twoCharacterCode" : "SA",
+    "countryName" : "Saudi Arabia",
+    "threeCharacterCode" : "SAU",
+    "emission" : 163907,
+    "gdp" : 651757333333.33301,
+    "population" : 31717667
+  },
+  {
+    "twoCharacterCode" : "SN",
+    "countryName" : "Senegal",
+    "threeCharacterCode" : "SEN",
+    "emission" : 2415,
+    "gdp" : 13640668374.165199,
+    "population" : 14578459
+  },
+  {
+    "twoCharacterCode" : "RS",
+    "countryName" : "Serbia",
+    "threeCharacterCode" : "SRB",
+    "emission" : 10272,
+    "gdp" : 37160332465.164497,
+    "population" : 7095383
+  },
+  {
+    "twoCharacterCode" : "SC",
+    "countryName" : "Seychelles",
+    "threeCharacterCode" : "SYC",
+    "emission" : 135,
+    "gdp" : 1437722206.3875401,
+    "population" : 93419
+  },
+  {
+    "twoCharacterCode" : "SL",
+    "countryName" : "Sierra Leone",
+    "threeCharacterCode" : "SLE",
+    "emission" : 357,
+    "gdp" : 4251869869.5075498,
+    "population" : 7171914
+  },
+  {
+    "twoCharacterCode" : "SG",
+    "countryName" : "Singapore",
+    "threeCharacterCode" : "SGP",
+    "emission" : 15373,
+    "gdp" : 296840704102.41498,
+    "population" : 5535002
+  },
+  {
+    "twoCharacterCode" : "SK",
+    "countryName" : "Slovakia",
+    "threeCharacterCode" : "SVK",
+    "emission" : 8366,
+    "gdp" : 87501423882.468597,
+    "population" : 5423801
+  },
+  {
+    "twoCharacterCode" : "SI",
+    "countryName" : "Slovenia",
+    "threeCharacterCode" : "SVN",
+    "emission" : 3494,
+    "gdp" : 43072415017.432098,
+    "population" : 2063531
+  },
+  {
+    "twoCharacterCode" : "SB",
+    "countryName" : "Solomon Islands",
+    "threeCharacterCode" : "SLB",
+    "emission" : 55,
+    "gdp" : 1129164718.8143599,
+    "population" : 603118
+  },
+  {
+    "twoCharacterCode" : "SO",
+    "countryName" : "Somalia",
+    "threeCharacterCode" : "SOM",
+    "emission" : 166,
+    "gdp" : 5925000000,
+    "population" : 13797201
+  },
+  {
+    "twoCharacterCode" : "ZA",
+    "countryName" : "South Africa",
+    "threeCharacterCode" : "ZAF",
+    "emission" : 133562,
+    "gdp" : 317610719411.48297,
+    "population" : 55386367
+  },
+  {
+    "twoCharacterCode" : "ES",
+    "countryName" : "Spain",
+    "threeCharacterCode" : "ESP",
+    "emission" : 63806,
+    "gdp" : 1197789902774.4299,
+    "population" : 46444832
+  },
+  {
+    "twoCharacterCode" : "LK",
+    "countryName" : "Sri Lanka",
+    "threeCharacterCode" : "LKA",
+    "emission" : 5016,
+    "gdp" : 80611989527.215805,
+    "population" : 20970000
+  },
+  {
+    "twoCharacterCode" : "KN",
+    "countryName" : "Saint Kitts and Nevis",
+    "threeCharacterCode" : "KNA",
+    "emission" : 63,
+    "gdp" : 878281507.76666701,
+    "population" : 51203
+  },
+  {
+    "twoCharacterCode" : "VC",
+    "countryName" : "Saint Vincent and the Grenadines",
+    "threeCharacterCode" : "VCT",
+    "emission" : 57,
+    "gdp" : 755205755.92592597,
+    "population" : 109148
+  },
+  {
+    "twoCharacterCode" : "SR",
+    "countryName" : "Suriname",
+    "threeCharacterCode" : "SUR",
+    "emission" : 543,
+    "gdp" : 4826587057.6872396,
+    "population" : 559143
+  },
+  {
+    "twoCharacterCode" : "SZ",
+    "countryName" : "Swaziland",
+    "threeCharacterCode" : "SWZ",
+    "emission" : 328,
+    "gdp" : 4020275298.0272598,
+    "population" : 1104044
+  },
+  {
+    "twoCharacterCode" : "SE",
+    "countryName" : "Sweden",
+    "threeCharacterCode" : "SWE",
+    "emission" : 11841,
+    "gdp" : 497918109302.39899,
+    "population" : 9799186
+  },
+  {
+    "twoCharacterCode" : "CH",
+    "countryName" : "Switzerland",
+    "threeCharacterCode" : "CHE",
+    "emission" : 9628,
+    "gdp" : 679289166858.23596,
+    "population" : 8282396
+  },
+  {
+    "twoCharacterCode" : "TJ",
+    "countryName" : "Tajikistan",
+    "threeCharacterCode" : "TJK",
+    "emission" : 1415,
+    "gdp" : 7853450374.0001001,
+    "population" : 8454028
+  },
+  {
+    "twoCharacterCode" : "TH",
+    "countryName" : "Thailand",
+    "threeCharacterCode" : "THA",
+    "emission" : 86232,
+    "gdp" : 399234547137.47198,
+    "population" : 68714511
+  },
+  {
+    "twoCharacterCode" : "TL",
+    "countryName" : "Timor-Leste",
+    "threeCharacterCode" : "TLS",
+    "emission" : 128,
+    "gdp" : 1606500000,
+    "population" : 1196302
+  },
+  {
+    "twoCharacterCode" : "TG",
+    "countryName" : "Togo",
+    "threeCharacterCode" : "TGO",
+    "emission" : 715,
+    "gdp" : 4087628275.9559398,
+    "population" : 7323158
+  },
+  {
+    "twoCharacterCode" : "TO",
+    "countryName" : "Tonga",
+    "threeCharacterCode" : "TON",
+    "emission" : 33,
+    "gdp" : 435438217.281663,
+    "population" : 100781
+  },
+  {
+    "twoCharacterCode" : "TT",
+    "countryName" : "Trinidad and Tobago",
+    "threeCharacterCode" : "TTO",
+    "emission" : 12619,
+    "gdp" : 23559224762.442402,
+    "population" : 1370328
+  },
+  {
+    "twoCharacterCode" : "TN",
+    "countryName" : "Tunisia",
+    "threeCharacterCode" : "TUN",
+    "emission" : 7862,
+    "gdp" : 43156708809.135399,
+    "population" : 11179949
+  },
+  {
+    "twoCharacterCode" : "TR",
+    "countryName" : "Turkey",
+    "threeCharacterCode" : "TUR",
+    "emission" : 94350,
+    "gdp" : 859794177118.10205,
+    "population" : 78529409
+  },
+  {
+    "twoCharacterCode" : "TM",
+    "countryName" : "Turkmenistan",
+    "threeCharacterCode" : "TKM",
+    "emission" : 18659,
+    "gdp" : 35799628571.428596,
+    "population" : 5565287
+  },
+  {
+    "twoCharacterCode" : "TV",
+    "countryName" : "Tuvalu",
+    "threeCharacterCode" : "TUV",
+    "emission" : 3,
+    "gdp" : 32673277.740214899,
+    "population" : 11099
+  },
+  {
+    "twoCharacterCode" : "UG",
+    "countryName" : "Uganda",
+    "threeCharacterCode" : "UGA",
+    "emission" : 1426,
+    "gdp" : 27059447774.662601,
+    "population" : 38225453
+  },
+  {
+    "twoCharacterCode" : "UA",
+    "countryName" : "Ukraine",
+    "threeCharacterCode" : "UKR",
+    "emission" : 61985,
+    "gdp" : 91030959454.696106,
+    "population" : 45154029
+  },
+  {
+    "twoCharacterCode" : "AE",
+    "countryName" : "United Arab Emirates",
+    "threeCharacterCode" : "ARE",
+    "emission" : 57641,
+    "gdp" : 357949199754.935,
+    "population" : 9262900
+  },
+  {
+    "twoCharacterCode" : "GB",
+    "countryName" : "United Kingdom",
+    "threeCharacterCode" : "GBR",
+    "emission" : 114486,
+    "gdp" : 2885570309160.8599,
+    "population" : 65116219
+  },
+  {
+    "twoCharacterCode" : "TZ",
+    "countryName" : "Tanzania, United Republic of",
+    "threeCharacterCode" : "TZA",
+    "emission" : 3153,
+    "gdp" : 45628320606.048698,
+    "population" : 51482633
+  },
+  {
+    "twoCharacterCode" : "US",
+    "countryName" : "United States",
+    "threeCharacterCode" : "USA",
+    "emission" : 1432855,
+    "gdp" : 18120714000000,
+    "population" : 320635163
+  },
+  {
+    "twoCharacterCode" : "UY",
+    "countryName" : "Uruguay",
+    "threeCharacterCode" : "URY",
+    "emission" : 1840,
+    "gdp" : 53274304214.817398,
+    "population" : 3412009
+  },
+  {
+    "twoCharacterCode" : "UZ",
+    "countryName" : "Uzbekistan",
+    "threeCharacterCode" : "UZB",
+    "emission" : 28692,
+    "gdp" : 66903804142.539497,
+    "population" : 31298900
+  },
+  {
+    "twoCharacterCode" : "VU",
+    "countryName" : "Vanuatu",
+    "threeCharacterCode" : "VUT",
+    "emission" : 42,
+    "gdp" : 742432131.04100204,
+    "population" : 271130
+  },
+  {
+    "twoCharacterCode" : "VN",
+    "countryName" : "Viet Nam",
+    "threeCharacterCode" : "VNM",
+    "emission" : 45517,
+    "gdp" : 193241108709.53601,
+    "population" : 92677076
+  },
+  {
+    "twoCharacterCode" : "YE",
+    "countryName" : "Yemen",
+    "threeCharacterCode" : "YEM",
+    "emission" : 6190,
+    "gdp" : 37733919936.246498,
+    "population" : 26497889
+  },
+  {
+    "twoCharacterCode" : "ZM",
+    "countryName" : "Zambia",
+    "threeCharacterCode" : "ZMB",
+    "emission" : 1228,
+    "gdp" : 21154394545.895,
+    "population" : 15879361
+  },
+  {
+    "twoCharacterCode" : "ZW",
+    "countryName" : "Zimbabwe",
+    "threeCharacterCode" : "ZWE",
+    "emission" : 3278,
+    "gdp" : 16304667807.065701,
+    "population" : 13814629
+  }
+]
